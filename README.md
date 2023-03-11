@@ -25,3 +25,5 @@ Everything started when I learned Python. Then I decided to learn how to build W
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/519910431972786176" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/LukyynCZ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+
+<a href="https://data.typeracer.com/pit/profile?user=lukyyncz&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=lukyyncz" border="0" alt="TypeRacer.com scorecard for user lukyyncz"/></a>
