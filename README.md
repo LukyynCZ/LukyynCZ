@@ -1,7 +1,7 @@
 Hi 👋 My name is Lukas
 ======================
 
-Web Developer & Student
+Web Developer
 -------------
 
 Everything started when I learned Python. Then I decided to learn how to build Websites and Web applications using MERN stack.
