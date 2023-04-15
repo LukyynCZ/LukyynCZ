@@ -6,7 +6,7 @@ Web Developer
 
 Everything started when I learned Python. Then I decided to learn how to build Websites and Web applications using MERN stack.
 
-* 🌍  I'm based in Czech Republic
+* 🌍  I'm based in the Czech Republic
 * ⚡  I'm improving my-self like lightning
 
 ### Skills
